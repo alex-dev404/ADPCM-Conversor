@@ -475,7 +475,9 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_btn_load_clicked()
 {
-    QStringList fileNames = QFileDialog::getOpenFileNames(this, tr("Selecione um ou mais arquivos"), QDir::homePath());
+    QFileDialog fileDialog(this, tr("Selecione um ou mais arquivos"), QDir::homePath());
+    fileDialog.setNameFilter(tr("Arquivos WAV (*.wav)"));
+    QStringList fileNames = fileDialog.getOpenFileNames(this);
     model->setStringList(fileNames);
 }
 
