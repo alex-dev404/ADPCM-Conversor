@@ -1,0 +1,8 @@
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/waw_to_adp.dir
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/install.dir
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/install/local.dir
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/alex/Área de trabalho/WAV TO ADCP/build-waw_to_adp-Desktop-Debug/CMakeFiles/waw_to_adp_autogen.dir
